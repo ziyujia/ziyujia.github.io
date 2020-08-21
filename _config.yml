@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+title: Ziyu Jia
+position: Ph.D. Candidate
+affiliation: Beijing Jiaotong University.<br>No.3 Shangyuancun, Haidian District, Beijing, China
+email: ziyujia@bjtu.edu.cn
+email_link: mailto:ziyujia@bjtu.edu.cn
+github_link: https://github.com/ziyujia
+weixin: ./assets/img/weixin.png
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: A third-year PhD candidate at Beijing Jiaotong University (BJTU)
+remote_theme: yaoyao-liu/strata-academic
