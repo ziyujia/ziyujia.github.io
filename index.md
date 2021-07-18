@@ -4,7 +4,7 @@ layout: homepage
 
 # Biography
 
-I am a third-year Ph.D. Candidate at Beijing Jiaotong University (BJTU). Here I am lucky enough to work with Prof. [Youfang Lin](http://faculty.bjtu.edu.cn/7443/){:target="_blank"} and Prof. [Jing Wang](http://faculty.bjtu.edu.cn/9167/){:target="_blank"}. Recently I will conduct my research at Massachusetts Institute of Technology (MIT) as a visiting student, under the supervision of Dr. [Roger Mark](http://imes.mit.edu/people/faculty/mark-roger/){:target="_blank"} (IEEE Fellow) and Dr. [Li-wei Lehman](http://web.mit.edu/lilehman/www/){:target="_blank"}.
+I am a third-year Ph.D. Candidate at Beijing Jiaotong University (BJTU). Here I am lucky enough to work with Prof. [Youfang Lin](http://faculty.bjtu.edu.cn/7443/){:target="_blank"} and Prof. [Jing Wang](http://faculty.bjtu.edu.cn/9167/){:target="_blank"}. Recently I will conduct my research at Massachusetts Institute of Technology (MIT) as a visiting student.
 
 I strive for developing novel time series data mining, machine learning and deep learning algorithms. In addition, I am also interested in a broad range of physiological time series applications in sleep stage classification, Brain Computer Interface, and affective computing. Besides research, I’m also an enthusiastic coder. I have participated in some large software development projects, and I am familiar with many tools for processing big data, such as Hadoop, Hbase, Hive, Spark, Flink and Storm.
 
