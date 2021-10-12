@@ -201,7 +201,7 @@ I strive for developing novel time series data mining, machine learning and deep
 
 I have been fortunate to work with very supportive and inspiring people that made me grow more than I could imagine. Here is a list of my collaborators:
 
-- **Beijing Jiaotong University**: Youfang Lin, Jing Wang, Yunxiao Liu, Xiaojun Ning, Xiyang Cai, *et al*.
+- **BJTU**: Youfang Lin, Jing Wang, Yunxiao Liu, Xiaojun Ning, Xiyang Cai, *et al*.
 - **MIT**: Li-Wei H. Lehman
 - **NUS**: Ye Wang, Hengguang Huang, Hongfu Liu
 - **Rutgers University**: Hao Wang
