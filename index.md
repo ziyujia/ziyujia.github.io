@@ -232,7 +232,15 @@ I have been fortunate to work with very supportive and inspiring people that mad
 
 ***
 
-<script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e65e40065b1673fb2d43f64d90aed14d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 
 <style type="text/css">
   body{
