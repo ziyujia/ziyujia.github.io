@@ -22,14 +22,12 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <div style="height:1em" />
 
 ## *Published:*
-
 - **Teacher Assistant-Based Knowledge Distillation Extracting Multi-level Features on Single Channel Sleep EEG**
   <br>
   Heng Liang, Yucheng Liu,   Haichao Wang, **Ziyu Jia\***
   <br>
   IProc. of the 32th International Joint Conference on Artificial Intelligence, 2023 (**<font color='#1677D2'>IJCAI, CCF A, IJCAI Student Grant</font>**), **Acceptance Ratio: 13.9%**
   [[Code]](https://github.com/HychaoWang/SleepKD){:target="_blank"} [[Webpage]](https://hychaowang.github.io/SleepKD/){:target="_blank"} 
-  
   <div style="height:1em" />
 
 - **EmotionKD: A Cross-Modal Knowledge Distillation Framework for Emotion Recognition Based on Physiological Signals**
@@ -45,15 +43,13 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   The 11st International Conference on Learning Representations, 2023 (**<font color='#1677D2'>ICLR, CCF A, Student Travel Grants</font>**) **Oral Ratio: 9.22%**
   [[PDF]](https://openreview.net/pdf?id=ZxdkjTgK_Dl){:target="_blank"}  [[Webpage]](https://yuchenliu1225.github.io/){:target="_blank"}
-
   <div style="height:1em" />  
 
 - **Hybrid spiking neural network for sleep electroencephalogram signals**
   <br>
   **Ziyu Jia**, Junyu Ji, Xinliang Zhou, Yuhan Zhou
   <br>
-  Science China Information Sciences 65, 2022 
-  (**<font color='#1677D2'>SCIS, CCF A</font>**)
+  Science China Information Sciences 65, 2022 (**<font color='#1677D2'>SCIS, CCF A</font>**)
   [[PDF]](http://scis.scichina.com/en/2022/140403.pdf){:target="_blank"}
   <div style="height:1em" />  
 
@@ -77,7 +73,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   IProc. of the 30th International Joint Conference on Artificial Intelligence, 2021 (**<font color='#1677D2'>IJCAI, CCF A, <i>Oral</i>, IJCAI Student Grant</font>**), **Acceptance Ratio: 13.9%**
   [[PDF]](https://www.ijcai.org/proceedings/2021/360){:target="_blank"}  [[Code]](https://github.com/ziyujia/SalientSleepNet){:target="_blank"}  [[Slides]](./slides/SalientSleepNet_slides.pdf){:target="_blank"}  [[Video]](./video/SalientSleepNet_video.mp4){:target="_blank"} 
-  
   <div style="height:1em" />
 
 - **HetEmotionNet: Two-Stream Heterogeneous Graph Recurrent Neural Network for Multi-modal Emotion Recognition**
