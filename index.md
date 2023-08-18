@@ -27,7 +27,7 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   Heng Liang, Yucheng Liu,   Haichao Wang, **Ziyu Jia\***
   <br>
-  IProc. of the 32th International Joint Conference on Artificial Intelligence, 2023 (**<font color='#1677D2'>IJCAI, CCF A, IJCAI Student Grant</font>**), **Acceptance Ratio: 13.9%**
+  IProc. of the 32th International Joint Conference on Artificial Intelligence, 2023 (**<font color='#1677D2'>IJCAI, CCF A, <i>Oral</i></font>**)
   [[Code]](https://github.com/HychaoWang/SleepKD){:target="_blank"} [[Webpage]](https://hychaowang.github.io/SleepKD/){:target="_blank"}
   
   <div style="height:1em" />
@@ -36,15 +36,15 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   Yucheng Liu, **Ziyu Jia\***, Haichao Wang
   <br>
-  31st ACM International Conference on Multimedia, 2023 (**<font color='#1677D2'>ACM MM, CCF A, Student Travel Grants</font>**) **Oral Ratio: 9.22%**
+  31st ACM International Conference on Multimedia, 2023 (**<font color='#1677D2'>ACM MM, CCF A</font>**)
   
   <div style="height:1em" />
 
-- **BSTT: A bayesian spatial-temporal transformer for sleep staging**
+- **BSTT: A Bayesian Spatial-Temporal Transformer for Sleep Staging**
   <br>
   Yuchen Liu, **Ziyu Jia\***
   <br>
-  The 11st International Conference on Learning Representations, 2023 (**<font color='#1677D2'>ICLR, CCF A, Student Travel Grants</font>**) **Oral Ratio: 9.22%**
+  The 11st International Conference on Learning Representations, 2023 (**<font color='#1677D2'>ICLR</font>**)
   [[PDF]](https://openreview.net/pdf?id=ZxdkjTgK_Dl){:target="_blank"}  [[Webpage]](https://yuchenliu1225.github.io/){:target="_blank"}
   
   <div style="height:1em" />  
