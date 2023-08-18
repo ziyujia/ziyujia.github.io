@@ -13,6 +13,63 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
 ***
 
 # Selected Publications
+## *Preprint:*
+- **Interpretable and robust ai in eeg systems: A survey**
+  <br>
+  Xinliang Zhou, Chenyu Liu, Liming Zhai*, **Ziyu Jia\***, Cuntai Guan, Yang Liu
+  <br>
+  [[PDF]](https://arxiv.org/pdf/2304.10755.pdf){:target="_blank"}
+  <div style="height:1em" />
+
+## *Published:*
+
+- **Teacher Assistant-Based Knowledge Distillation Extracting Multi-level Features on Single Channel Sleep EEG**
+  <br>
+  Heng Liang, Yucheng Liu,   Haichao Wang, **Ziyu Jia\***
+  <br>
+  IProc. of the 32th International Joint Conference on Artificial Intelligence, 2023 (**<font color='#1677D2'>IJCAI, CCF A, IJCAI Student Grant</font>**), **Acceptance Ratio: 13.9%**
+  [[Code]](https://github.com/HychaoWang/SleepKD){:target="_blank"} [[Webpage]](https://hychaowang.github.io/SleepKD/){:target="_blank"} 
+  
+  <div style="height:1em" />
+
+- **EmotionKD: A Cross-Modal Knowledge Distillation Framework for Emotion Recognition Based on Physiological Signals**
+  <br>
+  Yucheng Liu, **Ziyu Jia\***, Haichao Wang
+  <br>
+  31st ACM International Conference on Multimedia, 2023 (**<font color='#1677D2'>ACM MM, CCF A, Student Travel Grants</font>**) **Oral Ratio: 9.22%**
+  <div style="height:1em" />
+
+- **BSTT: A bayesian spatial-temporal transformer for sleep staging**
+  <br>
+  Yuchen Liu, **Ziyu Jia\***
+  <br>
+  The 11st International Conference on Learning Representations, 2023 (**<font color='#1677D2'>ICLR, CCF A, Student Travel Grants</font>**) **Oral Ratio: 9.22%**
+  [[PDF]](https://openreview.net/pdf?id=ZxdkjTgK_Dl){:target="_blank"}  [[Webpage]](https://yuchenliu1225.github.io/){:target="_blank"}
+
+  <div style="height:1em" />  
+
+- **Hybrid spiking neural network for sleep electroencephalogram signals**
+  <br>
+  **Ziyu Jia**, Junyu Ji, Xinliang Zhou, Yuhan Zhou
+  <br>
+  Science China Information Sciences 65, 2022 
+  (**<font color='#1677D2'>SCIS, CCF A</font>**)
+  [[PDF]](http://scis.scichina.com/en/2022/140403.pdf){:target="_blank"}
+  <div style="height:1em" />  
+
+- **Multi-modal physiological signals based squeeze-and-excitation network with domain adversarial learning for sleep staging**
+  <br>
+  **Ziyu Jia**, Xiyang Cai, Zehui Jiao
+  <br>
+  IEEE Sensors Journal, 2022 
+  <div style="height:1em" />  
+
+- **SleepPrintNet: A multivariate multimodal neural network based on physiological time-series for automatic sleep staging**
+  <br>
+  **Ziyu Jia**, Xiyang Cai, Gaoxing Zheng, Jing Wang, Youfang Lin
+  <br>
+  IEEE Transactions on Artificial Intelligence (**<font color='#1677D2'>TAI</font>**)
+  <div style="height:1em" />  
 
 - **SalientSleepNet: Multimodal Salient Wave Detection Network for Sleep Staging**
   <br>
@@ -22,11 +79,12 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   [[PDF]](https://www.ijcai.org/proceedings/2021/360){:target="_blank"}  [[Code]](https://github.com/ziyujia/SalientSleepNet){:target="_blank"}  [[Slides]](./slides/SalientSleepNet_slides.pdf){:target="_blank"}  [[Video]](./video/SalientSleepNet_video.mp4){:target="_blank"} 
   
   <div style="height:1em" />
+
 - **HetEmotionNet: Two-Stream Heterogeneous Graph Recurrent Neural Network for Multi-modal Emotion Recognition**
   <br>
   **Ziyu Jia**, Youfang Lin, Jing Wang, Zhiyang Feng, Xiangheng Xie, Caijie Chen
   <br>
-  ACM International Conference on Multimedia, 2021 (**<font color='#1677D2'>ACM MM, CCF A, <i>Oral</i>, Student Travel Grants</font>**) **Oral Ratio: 9.22%**
+  29th ACM International Conference on Multimedia, 2021 (**<font color='#1677D2'>ACM MM, CCF A, <i>Oral</i>, Student Travel Grants</font>**) **Oral Ratio: 9.22%**
   [[PDF]](https://arxiv.org/abs/2108.03354){:target="_blank"}  [[Code]](https://github.com/ziyujia/HetEmotionNet){:target="_blank"}  [[Slides]](./slides/HetEmotionNet_slides.pdf){:target="_blank"}  [[Video]](./video/HetEmotionNet_video.mp4){:target="_blank"}
   
   <div style="height:1em" />
@@ -232,6 +290,7 @@ I have been fortunate to work with very supportive and inspiring people that mad
 - **BJTU**: Youfang Lin, Jing Wang, Yunxiao Liu, Xiaojun Ning, Xiyang Cai, *et al*.
 - **MIT**: Li-Wei H. Lehman
 - **NUS**: Ye Wang, Hengguang Huang, Hongfu Liu
+- **NTU**: Chenyu Liu, Xinliang Zhou, Cuntai Guan, Yang Liu
 - **Rutgers University**: Hao Wang
 - **A*STAR & NTU**: Xiaoli Li
 - **Harvard Medical School**: Yan Ma
@@ -288,3 +347,4 @@ var _hmt = _hmt || [];
     color: #1677D2;
   }
 </style>
+
