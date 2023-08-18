@@ -19,7 +19,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   Xinliang Zhou, Chenyu Liu, Liming Zhai*, **Ziyu Jia\***, Cuntai Guan, Yang Liu
   <br>
   [[PDF]](https://arxiv.org/pdf/2304.10755.pdf){:target="_blank"}
-  
   <div style="height:1em" />
 
 ## *Published:*
@@ -29,7 +28,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   IProc. of the 32th International Joint Conference on Artificial Intelligence, 2023 (**<font color='#1677D2'>IJCAI, CCF A, <i>Oral</i></font>**)
   [[Code]](https://github.com/HychaoWang/SleepKD){:target="_blank"} [[Webpage]](https://hychaowang.github.io/SleepKD/){:target="_blank"}
-  
   <div style="height:1em" />
 
 - **EmotionKD: A Cross-Modal Knowledge Distillation Framework for Emotion Recognition Based on Physiological Signals**
@@ -37,7 +35,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   Yucheng Liu, **Ziyu Jia\***, Haichao Wang
   <br>
   31st ACM International Conference on Multimedia, 2023 (**<font color='#1677D2'>ACM MM, CCF A</font>**)
-  
   <div style="height:1em" />
 
 - **BSTT: A Bayesian Spatial-Temporal Transformer for Sleep Staging**
@@ -46,7 +43,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   The 11st International Conference on Learning Representations, 2023 (**<font color='#1677D2'>ICLR</font>**)
   [[PDF]](https://openreview.net/pdf?id=ZxdkjTgK_Dl){:target="_blank"}  [[Webpage]](https://yuchenliu1225.github.io/){:target="_blank"}
-  
   <div style="height:1em" />  
 
 - **Hybrid spiking neural network for sleep electroencephalogram signals**
@@ -55,7 +51,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   Science China Information Sciences 65, 2022 (**<font color='#1677D2'>SCIS, CCF A</font>**)
   [[PDF]](http://scis.scichina.com/en/2022/140403.pdf){:target="_blank"}
-  
   <div style="height:1em" />  
 
 - **Multi-modal physiological signals based squeeze-and-excitation network with domain adversarial learning for sleep staging**
@@ -63,7 +58,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   **Ziyu Jia**, Xiyang Cai, Zehui Jiao
   <br>
   IEEE Sensors Journal, 2022
-  
   <div style="height:1em" />  
 
 - **SleepPrintNet: A multivariate multimodal neural network based on physiological time-series for automatic sleep staging**
@@ -71,7 +65,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   **Ziyu Jia**, Xiyang Cai, Gaoxing Zheng, Jing Wang, Youfang Lin
   <br>
   IEEE Transactions on Artificial Intelligence (**<font color='#1677D2'>TAI</font>**)
-  
   <div style="height:1em" />  
 
 - **SalientSleepNet: Multimodal Salient Wave Detection Network for Sleep Staging**
@@ -80,7 +73,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   IProc. of the 30th International Joint Conference on Artificial Intelligence, 2021 (**<font color='#1677D2'>IJCAI, CCF A, <i>Oral</i>, IJCAI Student Grant</font>**), **Acceptance Ratio: 13.9%**
   [[PDF]](https://www.ijcai.org/proceedings/2021/360){:target="_blank"}  [[Code]](https://github.com/ziyujia/SalientSleepNet){:target="_blank"}  [[Slides]](./slides/SalientSleepNet_slides.pdf){:target="_blank"}  [[Video]](./video/SalientSleepNet_video.mp4){:target="_blank"}
-  
   <div style="height:1em" />
 
 - **HetEmotionNet: Two-Stream Heterogeneous Graph Recurrent Neural Network for Multi-modal Emotion Recognition**
@@ -89,7 +81,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   29th ACM International Conference on Multimedia, 2021 (**<font color='#1677D2'>ACM MM, CCF A, <i>Oral</i>, Student Travel Grants</font>**) **Oral Ratio: 9.22%**
   [[PDF]](https://arxiv.org/abs/2108.03354){:target="_blank"}  [[Code]](https://github.com/ziyujia/HetEmotionNet){:target="_blank"}  [[Slides]](./slides/HetEmotionNet_slides.pdf){:target="_blank"}  [[Video]](./video/HetEmotionNet_video.mp4){:target="_blank"}
-  
   <div style="height:1em" />
   
 - **Multi-View Spatial-Temporal Graph Convolutional Networks with Domain Generalization for Sleep Stage Classification**
@@ -97,7 +88,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   **Ziyu Jia**, Youfang Lin, Jing Wang, Xiaojun Ning, Yuanlai He, Ronghao Zhou, Yuhan Zhou, Li-wei H. Lehman
   <br>
   IEEE Transactions on. Neural Systems and Rehabilitation Engineering (**<font color='#1677D2'>IEEE TNSRE</font>**), 2021. **<font color='#1677D2'>SCI-I</font>** [[PDF]](https://ieeexplore.ieee.org/document/9530406){:target="_blank"} [[Code]](https://github.com/ziyujia/MSTGCN/){:target="_blank"}
-  
   <div style="height:1em" />
   
 - **GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification**
@@ -106,7 +96,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   IProc. of the 29th International Joint Conference on Artificial Intelligence, 2020, 1324-1330 (**<font color='#1677D2'>IJCAI, CCF A, <i>Oral</i></font>**), **Acceptance Ratio: 12.6%**
   [[PDF]](https://www.ijcai.org/Proceedings/2020/184){:target="_blank"}  [[Code]](https://github.com/ziyujia/GraphSleepNet){:target="_blank"}  [[Slides]](./slides/GraphSleepNet_slides.pdf){:target="_blank"}  [[Video]](./video/GraphSleepNet_video.mp4){:target="_blank"} 
-  
   <div style="height:1em" />
   
 - **SST-EmotionNet: Spatial-Spectral-Temporal based Attention 3D Dense Network for EEG Emotion Recognition**
@@ -115,7 +104,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   28th ACM International Conference on Multimedia (**<font color='#1677D2'>ACM MM 2020, CCF A</font>**)
   [[PDF]](https://dl.acm.org/doi/abs/10.1145/3394171.3413724){:target="_blank"}  [[Code]](https://github.com/ziyujia/SST-EmotionNet){:target="_blank"}  [[Slides]](./slides/SST-EmotionNet_slides.pdf){:target="_blank"}
-  
   <div style="height:1em" />
   
 - **MMCNN: A Multi-branch Multi-scale Convolutional Neural Network for Motor Imagery Classification**
@@ -124,7 +112,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**<font color='#1677D2'>ECML-PKDD 2020, CCF B, <i>Oral</i></font>**)
   [[PDF]](https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/RT/sub_589.pdf){:target="_blank"}  [[Code]](https://github.com/ziyujia/ECML-PKDD_MMCNN){:target="_blank"}  [[Slides]](./slides/MMCNN_slides.pdf){:target="_blank"}
-  
   <div style="height:1em" />
   
 - **Refined Nonuniform Embedding for Coupling Detection in Multivariate Time Series**
@@ -133,7 +120,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   **<font color='#1677D2'>Physical Review E</font>** 101 (2020) 062113.(**<font color='#1677D2'>SCI-II</font>**)
   [[PDF]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.062113){:target="_blank"}
-  
   <div style="height:1em" />
   
 - **Motor Imagery Classification Based on Multiscale Feature Extraction and Squeeze-Excitation Model**
@@ -141,7 +127,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   **Ziyu Jia**, Youfang Lin, Tianhang Liu, Kaixin Yang, and Jing Wang
   <br>
   **<font color='#1677D2'>Journal of Computer Research and Development</font>**, 2020. (**<font color='#1677D2'>Chinese CCF A</font>**)
-  
   <div style="height:1em" />
   
 - **Detecting Causality in Multivariate Time Series via Non-Uniform Embedding**
@@ -150,7 +135,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   **<font color='#1677D2'>Entropy</font>** 21(12) (2019): 1233. (**<font color='#1677D2'>SCI-III</font>**)
   [[PDF]](https://www.mdpi.com/1099-4300/21/12/1233){:target="_blank"}
-  
   <div style="height:1em" />
   
 - **Sleep Stage Classification Model Based on Deep Convolutional Neural Network**
@@ -159,7 +143,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   **<font color='#1677D2'>Journal of Zhejiang University (Engineering Science)</font>** (**<font color='#1677D2'>Chinese Journal EI</font>**)
   [[PDF]](http://www.zjujournals.com/EN/abstract/abstract41547.shtml){:target="_blank"}
-  
   <div style="height:1em" />
   
 - **Learning Space-Time-Frequency Representation with Two-Stream Attention Based 3D Network for Motor Imagery Classification**
@@ -168,7 +151,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   The IEEE International Conference on Data Mining (**<font color='#1677D2'>IEEE ICDM 2020, CCF B, <i>Oral</i> </font>**) \*Corresponding Author
   [[PDF]](https://ieeexplore.ieee.org/abstract/document/9338374/){:target="_blank"}
-  
   <div style="height:1em" />
   
 - **A new dissimilarity measure based on ordinal pattern for analyzing physiological signals**
@@ -176,7 +158,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   Yunxiao Liu, Youfang Lin, **Ziyu Jia**, Yan Ma, Jing Wang
   <br>
   **<font color='#1677D2'>Physica A</font>**: Statistical Mechanics and its Applications 574 (2021),125997. (**<font color='#1677D2'>SCI-II</font>**) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0378437121002697){:target="_blank"}
-  
   <div style="height:1em" />
   
 - **Representation Based on Ordinal Patterns for Seizure Detection in EEG Signals**
@@ -207,7 +188,7 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
 
 # Professional Services
 
-### Editorial board
+### Editorial Board
 
 - Explore and Development of the Internet of Things
 
