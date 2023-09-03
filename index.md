@@ -186,12 +186,6 @@ I am an **<font color='#1677D2'>Assistant Professor</font>** at Institute of Aut
 - Neurocomputing
 - Biocybernetics and Biomedical Engineering (**BBE**)
 
-### Membership
-- DeeCamp 2020 Member (Under the guidance of Dr. [Kai-Fu Lee](https://www.linkedin.com/in/kaifulee/)) 
-- AI TIME PhD Branch Leader
-- IEEE Student Member 
-- ACM Student Member
-
 ***
 
 # Honors and Awards
