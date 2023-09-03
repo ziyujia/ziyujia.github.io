@@ -4,9 +4,7 @@ layout: homepage
 
 # Biography
 
-I am an **<font color='#1677D2'>Assistant Professor</font>** at Institute of Automation of Chinese Academy of Sciences (**<font color='#1677D2'>CASIA</font>**), Beijing, China. Here I am lucky enough to work with Prof. [<b>Tianzi Jiang</b>](http://www.nlpr.ia.ac.cn/jiangtz/){:target="_blank"}. Before joining the CASIA, I was a staff at the Faculty of Science and Technology, University of Macau. I was a Joint Ph.D. student at Beijing Jiaotong University and National University of Singapore. In addition, I have maintained a long-term cooperative relationship with collaborators from the Massachusetts Institute of Technology, University of Macau, Nanyang Technological University, National University of Singapore, Harvard Medical School, Rutgers University, and ETH Zürich, etc. 
-
-I strive for developing **<font color='#1677D2'>novel time series data mining, machine learning and deep learning algorithms</font>**. In addition, I am also interested in a broad range of physiological time series applications in sleep stage classification, Brain Computer Interface, and affective computing. Besides research, I’m also an enthusiastic coder. I have participated in some large software development projects, and I am familiar with many tools for processing big data, such as Hadoop, Hbase, Hive, Spark, Flink and Storm.
+I am an **<font color='#1677D2'>Assistant Professor</font>** at Institute of Automation of Chinese Academy of Sciences (**<font color='#1677D2'>CASIA</font>**), Beijing, China. I strive to develop **<font color='#1677D2'>novel time series data mining, machine learning, and deep learning algorithms</font>**. In addition, I am also interested in a broad range of physiological time series applications in sleep stage classification, Brain Computer Interface, and affective computing. Besides research, I’m also an enthusiastic coder. I have participated in some large software development projects and am familiar with many tools for processing big data, such as Hadoop, Hbase, Hive, Spark, Flink, and Storm.
 
 <font color='red'>If you want to collaborate with me or conduct research internships, please feel free to contact me!</font>
 
@@ -14,7 +12,7 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
 
 # Selected Publications
 ## *Preprint:*
-- **Interpretable and robust ai in eeg systems: A survey**
+- **Interpretable and Robust Ai in EEG Systems: A Survey**
   <br>
   Xinliang Zhou, Chenyu Liu, Liming Zhai*, **Ziyu Jia\***, Cuntai Guan, Yang Liu
   <br>
@@ -45,28 +43,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   [[PDF]](https://openreview.net/pdf?id=ZxdkjTgK_Dl){:target="_blank"}  [[Webpage]](https://yuchenliu1225.github.io/){:target="_blank"}
   <div style="height:1em" />  
 
-- **Hybrid spiking neural network for sleep electroencephalogram signals**
-  <br>
-  **Ziyu Jia**, Junyu Ji, Xinliang Zhou, Yuhan Zhou
-  <br>
-  Science China Information Sciences 65, 2022 (**<font color='#1677D2'>SCIS, CCF A</font>**)
-  [[PDF]](http://scis.scichina.com/en/2022/140403.pdf){:target="_blank"}
-  <div style="height:1em" />  
-
-- **Multi-modal physiological signals based squeeze-and-excitation network with domain adversarial learning for sleep staging**
-  <br>
-  **Ziyu Jia**, Xiyang Cai, Zehui Jiao
-  <br>
-  IEEE Sensors Journal, 2022
-  <div style="height:1em" />  
-
-- **SleepPrintNet: A multivariate multimodal neural network based on physiological time-series for automatic sleep staging**
-  <br>
-  **Ziyu Jia**, Xiyang Cai, Gaoxing Zheng, Jing Wang, Youfang Lin
-  <br>
-  IEEE Transactions on Artificial Intelligence (**<font color='#1677D2'>TAI</font>**)
-  <div style="height:1em" />  
-
 - **SalientSleepNet: Multimodal Salient Wave Detection Network for Sleep Staging**
   <br>
   **Ziyu Jia**, Youfang Lin, Jing Wang, Xuehui Wang, Peiyi Xie, Yingbin Zhang
@@ -89,7 +65,14 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   <br>
   IEEE Transactions on. Neural Systems and Rehabilitation Engineering (**<font color='#1677D2'>IEEE TNSRE</font>**), 2021. **<font color='#1677D2'>SCI-I</font>** [[PDF]](https://ieeexplore.ieee.org/document/9530406){:target="_blank"} [[Code]](https://github.com/ziyujia/MSTGCN/){:target="_blank"}
   <div style="height:1em" />
-  
+
+- **SleepPrintNet: A Multivariate Multimodal Neural Network based on Physiological Time-series for Automatic Sleep Staging**
+  <br>
+  **Ziyu Jia**, Xiyang Cai, Gaoxing Zheng, Jing Wang, Youfang Lin
+  <br>
+  IEEE Transactions on Artificial Intelligence, 2020 (**<font color='#1677D2'>IEEE TAI</font>**)
+  <div style="height:1em" />  
+
 - **GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification**
   <br>
   **Ziyu Jia**, Youfang Lin, Jing Wang, Ronghao Zhou, Xiaojun Ning, Yuanlai He, Yaoshuai Zhao
@@ -136,15 +119,7 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   **<font color='#1677D2'>Entropy</font>** 21(12) (2019): 1233. (**<font color='#1677D2'>SCI-III</font>**)
   [[PDF]](https://www.mdpi.com/1099-4300/21/12/1233){:target="_blank"}
   <div style="height:1em" />
-  
-- **Sleep Stage Classification Model Based on Deep Convolutional Neural Network**
-  <br>
-  **Ziyu Jia**, Youfang Lin, Hongjun Zhang, Jing Wang.
-  <br>
-  **<font color='#1677D2'>Journal of Zhejiang University (Engineering Science)</font>** (**<font color='#1677D2'>Chinese Journal EI</font>**)
-  [[PDF]](http://www.zjujournals.com/EN/abstract/abstract41547.shtml){:target="_blank"}
-  <div style="height:1em" />
-  
+
 - **Learning Space-Time-Frequency Representation with Two-Stream Attention Based 3D Network for Motor Imagery Classification**
   <br>
   Zhenqi Li, Jing Wang, **Ziyu Jia\***, Youfang Lin
@@ -153,7 +128,7 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
   [[PDF]](https://ieeexplore.ieee.org/abstract/document/9338374/){:target="_blank"}
   <div style="height:1em" />
   
-- **A new dissimilarity measure based on ordinal pattern for analyzing physiological signals**
+- **A New Dissimilarity Measure based on Ordinal Pattern for Analyzing Physiological Signals**
   <br>
   Yunxiao Liu, Youfang Lin, **Ziyu Jia**, Yan Ma, Jing Wang
   <br>
@@ -216,9 +191,6 @@ I strive for developing **<font color='#1677D2'>novel time series data mining, m
 - AI TIME PhD Branch Leader
 - IEEE Student Member 
 - ACM Student Member
-
-### Teaching Assistant
-- Machine learning, Beijing Jiaotong University, Spring 2018, Spring 2019, Spring 2020.
 
 ***
 
