@@ -6,7 +6,7 @@ layout: homepage
 
 I am an **<font color='#1677D2'>Assistant Professor</font>** at Institute of Automation of Chinese Academy of Sciences (**<font color='#1677D2'>CASIA</font>**), Beijing, China. I strive to develop **<font color='#1677D2'>novel time series data mining, machine learning, and deep learning algorithms</font>**. In addition, I am also interested in a broad range of physiological time series applications in sleep stage classification, Brain Computer Interface, and affective computing. Besides research, I’m also an enthusiastic coder. I have participated in some large software development projects and am familiar with many tools for processing big data, such as Hadoop, Hbase, Hive, Spark, Flink, and Storm.
 
-<font color='red'>If you want to collaborate with me or conduct research internships, please feel free to contact me!</font>
+<font color='red'>If you are interested in collaborating on topics such as brain foundation models, multimodal BCI, or neuro-inspired AI, I warmly welcome potential collaborators and research interns—feel free to reach out!</font>
 
 ***
 
