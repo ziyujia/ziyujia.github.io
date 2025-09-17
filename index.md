@@ -4,7 +4,7 @@ layout: homepage
 
 # Biography
 
-I am an **<font color='#1677D2'>Assistant Professor</font>** at Institute of Automation of Chinese Academy of Sciences (**<font color='#1677D2'>CASIA</font>**), Beijing, China. I strive to develop **<font color='#1677D2'>novel time series data mining, machine learning, and deep learning algorithms</font>**. In addition, I am also interested in a broad range of physiological time series applications in sleep stage classification, Brain Computer Interface, and affective computing. Besides research, I’m also an enthusiastic coder. I have participated in some large software development projects and am familiar with many tools for processing big data, such as Hadoop, Hbase, Hive, Spark, Flink, and Storm.
+I am an **<font color='#1677D2'>Assistant Professor</font>** at the Institute of Automation, Chinese Academy of Sciences. My research focuses on **<font color='#1677D2'>time-series analysis methods and their applications in health and medicine</font>**, including **<font color='#1677D2'>multimodal affective computing, sleep stage classification, and brain-computer interfaces</font>**. I have published over 50 peer-reviewed papers in venues such as SMP, IEEE Transactions on Affective Computing, IEEE Transactions on Multimedia, IEEE Transactions on Neural Systems and Rehabilitation Engineering, KDD, and ICLR. I currently serve as an Associate Editor or Editorial Board Member for prestigious journals, including IEEE Transactions on Affective Computing and Information Fusion. In addition to my academic contributions, I also have extensive industry experience, having successfully led multiple R&D projects and secured several patents. I have received numerous honors, including the MSRA StarTrack Award and the CIE Young Talent Award.
 
 <font color='red'>If you are interested in collaborating on topics such as brain foundation models, multimodal BCI, neuro AI, and other related topics, I warmly welcome potential collaborators and research interns—feel free to reach out!</font>
 
@@ -12,6 +12,20 @@ I am an **<font color='#1677D2'>Assistant Professor</font>** at Institute of Aut
 
 # Selected Publications
 ## *Preprint:*
+- **Brain foundation models: A survey on advancements in neural signal processing and brain discovery**
+  <br>
+  Xinliang Zhou, Chenyu Liu, Zhisheng Chen, Kun Wang, Yi Ding, **Ziyu Jia\***, Qingsong Wen
+  <br>
+  [[PDF]](https://arxiv.org/pdf/2503.00580?){:target="_blank"}
+  <div style="height:1em" />
+  
+- **A comprehensive survey on eeg-based emotion recognition: A graph-based perspective**
+  <br>
+  Chenyu Liu, Xinliang Zhou, Yihao Wu, Yi Ding, Liming Zhai, Kun Wang, **Ziyu Jia\***, Yang Liu
+  <br>
+  [[PDF]](https://arxiv.org/pdf/2408.06027){:target="_blank"}
+  <div style="height:1em" />
+  
 - **Interpretable and Robust Ai in EEG Systems: A Survey**
   <br>
   Xinliang Zhou, Chenyu Liu, Liming Zhai*, **Ziyu Jia\***, Cuntai Guan, Yang Liu
@@ -190,6 +204,10 @@ I am an **<font color='#1677D2'>Assistant Professor</font>** at Institute of Aut
 
 # Honors and Awards
 
+- **MSRA StarTrack Program (Microsoft Research Asia)**, 2025
+- **CIE Young Talent Award (Chinese Institute of Electronics)**, 2024
+- **China Biomedical Conference Youth Scholar Award**, 2024
+- **BSIG Excellent Doctoral Dissertation Award**, 2024
 - **Swarma Club and Kaifeng Fellowship**, 2021
 - **China's Computer Software Design Competition, The first prize**, 2021. *Role: team mentor.*
 - **IJCAI Student Grant**, 2021
@@ -297,4 +315,5 @@ var _hmt = _hmt || [];
     color: #1677D2;
   }
 </style>
+
 
