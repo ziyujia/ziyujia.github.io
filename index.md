@@ -14,21 +14,21 @@ I am an **<font color='#1677D2'>Assistant Professor</font>** at the Institute of
 ## *Preprint:*
 - **Brain foundation models: A survey on advancements in neural signal processing and brain discovery**
   <br>
-  Xinliang Zhou, Chenyu Liu, Zhisheng Chen, Kun Wang, Yi Ding, **Ziyu Jia\***, Qingsong Wen
+  Xinliang Zhou, Chenyu Liu, Zhisheng Chen, Kun Wang, Yi Ding, **Ziyu Jia**, Qingsong Wen
   <br>
   [[PDF]](https://arxiv.org/pdf/2503.00580?){:target="_blank"}
   <div style="height:1em" />
   
 - **A comprehensive survey on eeg-based emotion recognition: A graph-based perspective**
   <br>
-  Chenyu Liu, Xinliang Zhou, Yihao Wu, Yi Ding, Liming Zhai, Kun Wang, **Ziyu Jia\***, Yang Liu
+  Chenyu Liu, Xinliang Zhou, Yihao Wu, Yi Ding, Liming Zhai, Kun Wang, **Ziyu Jia**, Yang Liu
   <br>
   [[PDF]](https://arxiv.org/pdf/2408.06027){:target="_blank"}
   <div style="height:1em" />
   
 - **Interpretable and Robust Ai in EEG Systems: A Survey**
   <br>
-  Xinliang Zhou, Chenyu Liu, Liming Zhai*, **Ziyu Jia\***, Cuntai Guan, Yang Liu
+  Xinliang Zhou, Chenyu Liu, Liming Zhai, **Ziyu Jia**, Cuntai Guan, Yang Liu
   <br>
   [[PDF]](https://arxiv.org/pdf/2304.10755.pdf){:target="_blank"}
   <div style="height:1em" />
@@ -36,7 +36,7 @@ I am an **<font color='#1677D2'>Assistant Professor</font>** at the Institute of
 ## *Published:*
 - **Teacher Assistant-Based Knowledge Distillation Extracting Multi-level Features on Single Channel Sleep EEG**
   <br>
-  Heng Liang, Yucheng Liu,   Haichao Wang, **Ziyu Jia\***
+  Heng Liang, Yucheng Liu,   Haichao Wang, **Ziyu Jia**
   <br>
   IProc. of the 32th International Joint Conference on Artificial Intelligence, 2023 (**<font color='#1677D2'>IJCAI, CCF A, <i>Oral</i></font>**)
   [[Code]](https://github.com/HychaoWang/SleepKD){:target="_blank"} [[Webpage]](https://hychaowang.github.io/SleepKD/){:target="_blank"}
@@ -44,14 +44,14 @@ I am an **<font color='#1677D2'>Assistant Professor</font>** at the Institute of
 
 - **EmotionKD: A Cross-Modal Knowledge Distillation Framework for Emotion Recognition Based on Physiological Signals**
   <br>
-  Yucheng Liu, **Ziyu Jia\***, Haichao Wang
+  Yucheng Liu, **Ziyu Jia**, Haichao Wang
   <br>
   31st ACM International Conference on Multimedia, 2023 (**<font color='#1677D2'>ACM MM, CCF A</font>**)
   <div style="height:1em" />
 
 - **BSTT: A Bayesian Spatial-Temporal Transformer for Sleep Staging**
   <br>
-  Yuchen Liu, **Ziyu Jia\***
+  Yuchen Liu, **Ziyu Jia**
   <br>
   The 11st International Conference on Learning Representations, 2023 (**<font color='#1677D2'>ICLR</font>**)
   [[PDF]](https://openreview.net/pdf?id=ZxdkjTgK_Dl){:target="_blank"}  [[Webpage]](https://yuchenliu1225.github.io/){:target="_blank"}
@@ -136,9 +136,9 @@ I am an **<font color='#1677D2'>Assistant Professor</font>** at the Institute of
 
 - **Learning Space-Time-Frequency Representation with Two-Stream Attention Based 3D Network for Motor Imagery Classification**
   <br>
-  Zhenqi Li, Jing Wang, **Ziyu Jia\***, Youfang Lin
+  Zhenqi Li, Jing Wang, **Ziyu Jia**, Youfang Lin
   <br>
-  The IEEE International Conference on Data Mining (**<font color='#1677D2'>IEEE ICDM 2020, CCF B, <i>Oral</i> </font>**) \*Corresponding Author
+  The IEEE International Conference on Data Mining (**<font color='#1677D2'>IEEE ICDM 2020, CCF B, <i>Oral</i> </font>**)
   [[PDF]](https://ieeexplore.ieee.org/abstract/document/9338374/){:target="_blank"}
   <div style="height:1em" />
   
