@@ -1,0 +1,17 @@
+title: Ziyu Jia (贾子钰)
+position: Associate Professor
+affiliation: Institute of Automation,<br> Chinese Academy of Sciences
+email: ziyu.jia@ia.ac.cn 
+email_link: mailto:jia.ziyu@outlook.com
+github_link: https://github.com/ziyujia
+weixin: ./assets/img/weixin.png
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: An Associate Professor at Institute of Automation, Chinese Academy of Sciences (CASIA)
+remote_theme: yaoyao-liu/strata-academic
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-server.log
+  - jekyll-server.err.log

@@ -1,0 +1,58 @@
+---
+---
+
+@import "strata-academic";
+
+.language-switcher {
+  align-items: center;
+  background: rgba(255, 255, 255, 0.94);
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  box-shadow: 0 4px 16px rgba(15, 23, 42, 0.08);
+  display: inline-flex;
+  gap: 4px;
+  padding: 5px;
+  position: fixed;
+  right: 1.25rem;
+  top: 1.25rem;
+  z-index: 10000;
+}
+
+.language-switcher__item {
+  border: 0;
+  border-radius: 4px;
+  color: #4b5563;
+  display: inline-flex;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 1;
+  min-width: 3.35rem;
+  padding: 0.68rem 0.9rem;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.language-switcher__item:hover {
+  background: rgba(22, 119, 210, 0.08);
+  color: #1677D2 !important;
+}
+
+.language-switcher__item.is-active {
+  background: #1677D2;
+  color: #fff;
+  cursor: default;
+}
+
+.language-switcher__item.is-active:hover {
+  background: #1677D2;
+  color: #fff !important;
+}
+
+@media screen and (max-width: 980px) {
+  .language-switcher {
+    right: 0.85rem;
+    top: 0.85rem;
+  }
+}
