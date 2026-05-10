@@ -8,9 +8,9 @@ description: 中国科学院自动化研究所副研究员
 
 # 个人简介
 
-贾子钰博士，中国科学院自动化研究所副研究员，**<font color='#1677D2'>长期从事非侵入式脑机接口与脑疾病检测相关研究</font>**，近年来相关成果持续发表于 **<font color='#1677D2'>ICML、NeurIPS、KDD 等计算机领域旗舰会议及 IEEE Transactions 系列期刊共计 80 余篇</font>**，近五年谷歌学术引用 2900 余次（H-index 为 30），单篇最高引用 330 余次，单篇引用超 100 次文章 7 篇（均第一作者），**<font color='#1677D2'>ESI 高被引论文 2 篇</font>**，**<font color='#1677D2'>主持国家自然科学基金、国家重点项目课题等十余项</font>**，已授权国家发明专利及软件著作权 6 项；担任北京脑网络组与类脑智能学会理事，**<font color='#1677D2'>IEEE TAFFC、Information Fusion 多个 1 区 Top 期刊副编辑/编委</font>**，**<font color='#1677D2'>NeurIPS、IJCNN 等会议领域主席</font>**，脑网络组与脑机接口北京市重点实验室骨干（实验室主任：[蒋田仔](https://people.ucas.ac.cn/~0001570){:target="_blank"}），中国科学院自动化研究所脑网络组研究中心骨干（实验室主任：[左年明](https://people.ucas.edu.cn/~nmzuo){:target="_blank"}），入选 **<font color='#1677D2'>2025 年微软亚洲研究院铸星计划</font>**、**<font color='#1677D2'>全球前 2% 顶尖科学家</font>**、**<font color='#1677D2'>中国电子学会青年人才托举计划</font>**、北京市高创青年人才支持计划、国家/北京市一级学会优博（含提名）奖励，在脑机接口与人工智能交叉研究领域产生了积极而持续的学术影响。
+贾子钰博士，中国科学院自动化研究所副研究员，**<font color='#1677D2'>长期从事非侵入式脑机接口与脑疾病检测相关研究</font>**，近年来相关成果持续发表于 **<font color='#1677D2'>ICML、NeurIPS、KDD 等计算机领域旗舰会议及 IEEE Transactions 系列期刊共计 80 余篇</font>**，近五年谷歌学术引用 2900 余次（H-index 为 30），单篇最高引用 330 余次，单篇引用超 100 次文章 7 篇（均第一作者），**<font color='#1677D2'>ESI 高被引论文 2 篇</font>**，**<font color='#1677D2'>主持国家自然科学基金、国家重点项目课题等十余项</font>**，已授权国家发明专利及软件著作权 6 项；担任北京脑网络组与类脑智能学会理事，**<font color='#1677D2'>IEEE TAFFC、Information Fusion 多个 1 区 Top 期刊副编辑/编委</font>**，**<font color='#1677D2'>NeurIPS、IJCNN 等会议领域主席</font>**，脑网络组与脑机接口北京市重点实验室骨干（实验室主任：[蒋田仔](https://people.ucas.ac.cn/~0001570){:target="_blank"}），中国科学院自动化研究所脑网络组研究中心骨干（中心主任：[左年明](https://people.ucas.edu.cn/~nmzuo){:target="_blank"}），入选 **<font color='#1677D2'>2025 年微软亚洲研究院铸星计划</font>**、**<font color='#1677D2'>全球前 2% 顶尖科学家</font>**、**<font color='#1677D2'>中国电子学会青年人才托举计划</font>**、北京市高创青年人才支持计划、国家/北京市一级学会优博（含提名）奖励，在脑机接口与人工智能交叉研究领域产生了积极而持续的学术影响。
 
-<font color='red'>如果你对 Brain Foundation Models, Multimodal BCI, NeuroAI 及相关方向感兴趣，欢迎与我联系，期待与潜在合作者和科研实习生交流合作。</font>
+<font color='red'>如果你对 Brain Foundation Models, Multimodal BCI, NeuroAI 及相关方向感兴趣，欢迎与我联系，期待与潜在合作者和科研实习生交流合作。联系电话：15810239891。</font>
 
 ***
 
